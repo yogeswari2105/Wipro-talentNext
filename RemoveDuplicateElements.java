@@ -20,4 +20,4 @@ public class Exercise33 {
 	  return index;
     }
 }
-© 2020 GitHub, Inc.
+
